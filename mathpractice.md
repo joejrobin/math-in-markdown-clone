@@ -66,3 +66,32 @@ p_2 \\
 p_3
 \end{pmatrix}
 $$
+
+
+# Systems of equations
+
+$$
+\begin{align}
+3x &+ 2y &=& 5\\
+x &- y &=& 1
+\end{align}
+$$
+
+$$
+\begin{aligned}
+3x &+ 2y &=& 5\\
+x &- y &=& 1
+\end{aligned}
+$$
+
+
+Piecewise function:
+
+$$
+f(x) = \begin{cases}
+x^2 & \text{if } x \geq 0 \\
+-x^2 & \text{if } x < 0
+\end{cases}
+$$
+
+# The Euler Identity
